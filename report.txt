@@ -1,0 +1,16 @@
+Score: 95
+
+doesn't give a correct error when the year is 0
+
+== junit ==
+edu.wit.cs.comp1000.grading.PA6aGrading#testLeapYear: +15
+edu.wit.cs.comp1000.grading.PA6aGrading#testPrintMonth: +15
+edu.wit.cs.comp1000.grading.PA6aGrading#testYearNeg: +5
+edu.wit.cs.comp1000.grading.PA6aGrading#testYearZero: +0
+edu.wit.cs.comp1000.grading.PA6aGrading#testDayLessGreater: +5
+edu.wit.cs.comp1000.grading.PA6aGrading#testDayLessGreaterTight: +5
+edu.wit.cs.comp1000.grading.PA6aGrading#test2015: +25
+edu.wit.cs.comp1000.grading.PA6aGrading#test2016: +25
+
+== ontime ==
+ontime: +0
